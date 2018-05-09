@@ -1,0 +1,18 @@
+body 
+{background-color: grey;}
+
+.words
+{background-color: #fff;}
+
+a {
+    color: #fff;
+}
+
+.btn-primary
+{background-color: #0d449b;}
+
+.btn-secondary
+{background-color: #0c669b;}
+
+.btn-info
+{background-color: #0c9b9b;}
